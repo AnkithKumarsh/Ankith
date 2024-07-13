@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://ankithkumarsh.github.io/Ankith-s-Portfolio/
+> https://ankithkumarsh.github.io/Ankith/
 
 :star: Star me on GitHub — it helps!
 
