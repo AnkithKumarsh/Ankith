@@ -970,6 +970,21 @@ section .container {
   color: rgb(78, 15, 136);
 }
 
+
+@media (max-width: 767px) {
+  .contact .info-box p {
+    padding: 0;
+    color: #fff;
+    line-height: 24px;
+    font-size: 13px;
+    margin: 0 0 0 50px;
+  }
+  .contact .info-box i.bx {
+    font-size: 20px;
+  }
+  }
+
+
 .contact .php-email-form {
   padding: 30px;
   background: rgba(255, 255, 255, 0.08);
