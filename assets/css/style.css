@@ -976,8 +976,8 @@ section .container {
     padding: 0;
     color: #fff;
     line-height: 24px;
-    font-size: 12px;
-    margin: 0 0 0 45px;
+    font-size: 11px;
+    margin: 0 0 0 40px;
   }
   .contact .info-box i.bx {
     font-size: 20px;
